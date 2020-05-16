@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 import pickle
 
-from week1.compute_sta import compute_sta
+from week2.compute_sta import compute_sta
 
 
 FILENAME = 'c1p8.pickle'
